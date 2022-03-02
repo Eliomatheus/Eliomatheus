@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Eliomatheus
-- 👀 I’m interested em atuar na area de  Dados.
--    🌱 I’m currently learning  python.
-- 💞️ I’m looking to collaborate  com meus conhecimento  de estudos.
+- 👀 I’m interested to work in the Data area.
+- 🌱 I’m currently learning  python.
+- 💞️ I’m looking to collaborate with my knowledge of studies..
 - 📫 How to reach me  e-mail: eliomatheus8@gmail.com
 
 <!---
