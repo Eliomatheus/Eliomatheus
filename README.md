@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eliomatheus
-- 👀 I’m interested to work in the Data area.
+- 👀 I am interested in working in the programming field.
 - 🌱 I’m currently learning  python.
 - 💞️ I’m looking to collaborate with my knowledge of studies..
 - 📫 How to reach me  e-mail: eliomatheus8@gmail.com
