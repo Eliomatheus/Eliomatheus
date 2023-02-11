@@ -1,8 +1,5 @@
 # 💫 About Me:
-👋🏾Pleasure my name is Elio Matheus, let's share knowledge
-🔭 I currently work as an IT support
-🔁 I'm constantly evolving
-💻I am currently studying Data Science, using the learning cycle method.
+👋🏾Pleasure my name is Elio Matheus, let's share knowledge<br>🔭 I currently work as an IT support<br>🔁 I'm constantly evolving<br>💻I am currently studying Data Science.
 
 
 ## 🌐 Socials:
