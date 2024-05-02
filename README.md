@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏾Pleasure my name is Elio Matheus, let's share knowledge<br>🔭 I currently work as an IT support<br>🔁 I'm constantly evolving<br>💻I am currently studying Data Science.
+👋🏾Pleasure my name is Elio Matheus, let's share knowledge<br>🔭 I currently work as an IT support<br>🔁 I'm constantly evolving<br>💻I'm currently studying Web Development.
 
 
 ## 🌐 Socials:
